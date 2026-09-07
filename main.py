@@ -1,0 +1,4 @@
+print("Lab 1: Version Control")
+print("Author: JOHN LORENZ P. SAMULDE")
+print("Student ID: TUPM-26-1175")
+print("Class Section: 1C")
