@@ -1,3 +1,3 @@
-﻿# Lab1_Git_Samulde-e.g.-Lab1_-GIt_Madrigal-.
-# Lab 1 Activity
-This respository belongs to Samulde
+# Lab 2 Git Activity
+
+This repository belongs to Samulde.
